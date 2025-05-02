@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+header {
+    position: sticky;
+    background-color: gray;
+    /* overflow: hidden; */
+    top: 0;
+}
+
+.logo {
+    width: 10px;
+}
+
+
+footer {
+    margin-top: 2500px;
+    background-color: green;
+}
