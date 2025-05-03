@@ -1,16 +1,25 @@
 body {
-    background-color: black;
+    font-family: monospace;
+    background-color: #1e1e1e;
+    margin: 0;
 }
 
 header {
     position: sticky;
-    background-color: gray;
-    /* overflow: hidden; */
+    background-color: #4d4d4d;
+    margin: 0;
+    padding: 0;
     top: 0;
 }
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
 
 .logo {
-    width: 10px;
+    width: 100px;
+    border-radius: 50px;
 }
 
 
