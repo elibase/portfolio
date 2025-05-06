@@ -40,6 +40,12 @@ header {
 }
 
 
+main {
+    margin-left: 300px;
+    margin-right: 300px
+}
+
+
 footer {
     margin-top: 2500px;
     border-top: 1px solid white;
@@ -62,4 +68,3 @@ footer {
 .footerlinks a:hover {
     color: rgb(197, 197, 197);
 }
-
