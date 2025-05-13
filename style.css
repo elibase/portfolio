@@ -49,9 +49,48 @@ main {
     margin-right: 200px;
 }
 
+.contact-section {
+    color: white;
+}
+
+#Contact-Header {
+    margin-top: 100px;
+    margin-left: 200px;    
+}
+
+.contact-card {
+    border: 1px solid rgb(197, 197, 197);
+    border-radius: 15px;
+    padding: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact-link {
+    color: white;
+    text-decoration: none;
+}
+
+.contact-link:hover {
+    color: rgb(197, 197, 197);
+    text-decoration: none;
+}
+
+#contact-link-2 {
+    margin-top: 9px;
+}
+
+#contact-link-2 h3 {
+    margin-top: 13px;
+}
+
 /* Footer Styling */
 footer {
-    margin-top: 2500px;
+    margin-top: 100px;
     border-top: 1px solid white;
     margin-left: 300px;
     margin-right: 300px;
